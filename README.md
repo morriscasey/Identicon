@@ -1,6 +1,7 @@
 # Identicon
 
-**TODO: Add description**
+## Description
+Module for building an identicon image from a string
 
 ## Installation
 
@@ -21,4 +22,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:identicon]]
     end
     ```
-
